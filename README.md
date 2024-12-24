@@ -41,4 +41,4 @@ The graph illustrates the dynamic nature of the COVID-19 pandemic's impact on ho
 
 The graph illustrates the dynamic nature of ICU bed occupancy by COVID-19, Influenza, and RSV over the years. It highlights the dominance of COVID-19 in 2020 and 2021, the subsequent decline in its occupancy rates, and the fluctuating but significant impact of Influenza and RSV. This visualization is crucial for understanding the burden of these diseases on ICU resources and the effectiveness of public health interventions over time. The data suggests that while COVID-19 initially overwhelmed ICU capacities, the healthcare system has adapted to manage all three diseases more effectively by 2024.
 
-###### More visualization [here](https://www.kaggle.com/code/noeyislearning/hospital-respiratory-forensics/notebook).
+###### More visualizations [here](https://www.kaggle.com/code/noeyislearning/hospital-respiratory-forensics/notebook).
