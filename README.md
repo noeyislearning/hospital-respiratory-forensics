@@ -1,5 +1,6 @@
 # Hospital Respiratory Forensics
 
+> Class: **🟪 Visualization**  
 > Dataset used: **[Weekly Hospital Respiratory Data and Metrics (Kaggle)](https://www.kaggle.com/datasets/noeyislearning/weekly-hospital-respiratory-data-and-metrics)**  
 > Notebook: **[Kaggle](https://www.kaggle.com/code/noeyislearning/hospital-respiratory-forensics)**
 
