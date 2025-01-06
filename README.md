@@ -10,7 +10,7 @@ A comprehensive analysis of hospital respiratory data, spanning from August 2020
 
 ### [Percentage of Inpatient Beds Occupied by COVID-19 Patients](https://www.kaggle.com/code/noeyislearning/hospital-respiratory-forensics/notebook#Percentage-of-Inpatient-Beds-Occupied-by-COVID-19-Patients)
 
-![Percentage of Inpatient Beds Occupied by COVID-19 Patients](assets/img/viz1.png)
+![Percentage of Inpatient Beds Occupied by COVID-19 Patients](docs/img/viz1.png)
 
 **Key Observations**
 
@@ -26,7 +26,7 @@ The graph illustrates the dynamic nature of the COVID-19 pandemic's impact on ho
 
 ### [Comparison of ICU Bed Occupancy by Disease (COVID-19, Influenza, RSV)](https://www.kaggle.com/code/noeyislearning/hospital-respiratory-forensics/notebook#Comparison-of-ICU-Bed-Occupancy-by-Disease-(COVID-19,-Influenza,-RSV))
 
-![Comparison of ICU Bed Occupancy by Disease (COVID-19, Influenza, RSV)](assets/img/viz2.png)
+![Comparison of ICU Bed Occupancy by Disease (COVID-19, Influenza, RSV)](docs/img/viz2.png)
 
 **Key Observations**
 
