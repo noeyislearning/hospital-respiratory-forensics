@@ -1,7 +1,7 @@
 # Hospital Respiratory Forensics
 
 > Dataset used: **[Weekly Hospital Respiratory Data and Metrics (Kaggle)](https://www.kaggle.com/datasets/noeyislearning/weekly-hospital-respiratory-data-and-metrics)**  
-> Notebook: **[(Visualization) Deepnote](https://deepnote.com/app/noeyislearning/Hospital-Respiratory-Forensics-7ca65703-6319-4f50-9991-e093cfafe43c)**
+> Notebook: **[Visualization](https://nbviewer.org/github/trigeminal/hospital-respiratory-forensics/blob/main/notebooks/visualization.ipynb)**
 
 A comprehensive analysis of hospital respiratory data, spanning from August 2020 through October 2024. This dataset, meticulously aggregated to national and state/territory levels, is reported to the Centers for Disease Control and Prevention’s (CDC) National Health Safety Network (NHSN). It offers a detailed view of metrics related to hospital capacity, occupancy, hospitalizations, and new admissions for COVID-19, Influenza, and Respiratory Syncytial Virus (RSV). The data reflects both mandated and voluntary reporting periods, capturing the dynamic changes in reporting requirements by the Centers for Medicare and Medicaid Services (CMS).
 
