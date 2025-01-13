@@ -1,13 +1,13 @@
 # Hospital Respiratory Forensics
 
-> Dataset used: **[Weekly Hospital Respiratory Data and Metrics (Kaggle)](https://www.kaggle.com/datasets/noeyislearning/weekly-hospital-respiratory-data-and-metrics)**  
-> Notebook: **[Visualization](https://nbviewer.org/github/trigeminal/hospital-respiratory-forensics/blob/main/notebooks/visualization.ipynb)**
+> Dataset used: **[Weekly Hospital Respiratory Data and Metrics](datasets/raw/raw_weekly_hospital_respiratory_data_2020_2024.csv)**  
+> Notebooks: **[Visualization](https://nbviewer.org/github/trigeminal/hospital-respiratory-forensics/blob/main/notebooks/visualization.ipynb)**
 
 A comprehensive analysis of hospital respiratory data, spanning from August 2020 through October 2024. This dataset, meticulously aggregated to national and state/territory levels, is reported to the Centers for Disease Control and Prevention’s (CDC) National Health Safety Network (NHSN). It offers a detailed view of metrics related to hospital capacity, occupancy, hospitalizations, and new admissions for COVID-19, Influenza, and Respiratory Syncytial Virus (RSV). The data reflects both mandated and voluntary reporting periods, capturing the dynamic changes in reporting requirements by the Centers for Medicare and Medicaid Services (CMS).
 
 ## Visualizations
 
-### [Percentage of Inpatient Beds Occupied by COVID-19 Patients](https://www.kaggle.com/code/noeyislearning/hospital-respiratory-forensics/notebook#Percentage-of-Inpatient-Beds-Occupied-by-COVID-19-Patients)
+### Percentage of Inpatient Beds Occupied by COVID-19 Patients
 
 ![Percentage of Inpatient Beds Occupied by COVID-19 Patients](docs/img/viz1.png)
 
@@ -23,7 +23,7 @@ A comprehensive analysis of hospital respiratory data, spanning from August 2020
 
 The graph illustrates the dynamic nature of the COVID-19 pandemic's impact on hospital inpatient bed occupancy. It highlights the initial surge in 2020, the peak in 2021, and the subsequent decline and stabilization in the following years. This visualization is crucial for understanding the burden of COVID-19 on healthcare systems and the effectiveness of public health interventions over time.
 
-### [Comparison of ICU Bed Occupancy by Disease (COVID-19, Influenza, RSV)](https://www.kaggle.com/code/noeyislearning/hospital-respiratory-forensics/notebook#Comparison-of-ICU-Bed-Occupancy-by-Disease-(COVID-19,-Influenza,-RSV))
+### Comparison of ICU Bed Occupancy by Disease (COVID-19, Influenza, RSV)
 
 ![Comparison of ICU Bed Occupancy by Disease (COVID-19, Influenza, RSV)](docs/img/viz2.png)
 
@@ -39,4 +39,4 @@ The graph illustrates the dynamic nature of the COVID-19 pandemic's impact on ho
 
 The graph illustrates the dynamic nature of ICU bed occupancy by COVID-19, Influenza, and RSV over the years. It highlights the dominance of COVID-19 in 2020 and 2021, the subsequent decline in its occupancy rates, and the fluctuating but significant impact of Influenza and RSV. This visualization is crucial for understanding the burden of these diseases on ICU resources and the effectiveness of public health interventions over time. The data suggests that while COVID-19 initially overwhelmed ICU capacities, the healthcare system has adapted to manage all three diseases more effectively by 2024.
 
-###### More visualizations [here](https://www.kaggle.com/code/noeyislearning/hospital-respiratory-forensics/notebook).
+###### More visualizations [here](https://nbviewer.org/github/trigeminal/hospital-respiratory-forensics/blob/main/notebooks/visualization.ipynb).
